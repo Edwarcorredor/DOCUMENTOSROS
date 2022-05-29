@@ -10,3 +10,10 @@ La carpeta que contiene el package del Turtlebot se llama:
 - rbx1
 ## Segundo corte
 ### Creación nodo suscriptor y publicador
+Se usa como base la documentación del paso a paso en la pagina oficial de ROS para la creación de nodos suscriptores y publicadores, para esto se crean dos archivos que contendrán los codigos que realizan estas funciones. Se usa lenguaje en python.
+La carpeta que contiene los archivos se llama:
+- ros_arduino
+### Creación nodo suscriptor, suscriptorpublicador y publicador
+Se usa como base la documentación del paso a paso en la pagina oficial de ROS para la creación de nodos suscriptores y publicadores, para esto se crean tres archivos que contendrán los codigos que realizan estas funciones. Para la creación del nodo suscriptorpublicador, se usa una combinacion de las funciones de cada uno.Se usa lenguaje en python.
+La carpeta que contiene los archivos se llama:
+- ros_arduino
