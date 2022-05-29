@@ -7,4 +7,6 @@ La carpeta que contiene estos tutoriales se llama:
 ### Parcial robot TurtleBot
 Se logra mover el robot TurtleBot (irobot color blanco de la USTA) por medio de comandos de teclado, utilizando el PC. Se reestrucura el nodo turtlesim para lograr el movimiento del robot real, y con la ayuda de la carpeta y el package del turtlebot como complementación del proceso. 
 La carpeta que contiene el package del Turtlebot se llama:
--rbx1
+- rbx1
+## Segundo corte
+### Creación nodo suscriptor y publicador
