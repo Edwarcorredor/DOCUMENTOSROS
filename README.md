@@ -21,3 +21,10 @@ La carpeta que contiene los archivos se llama:
 Se usan como base los nodos creados anteriormente para duplicarse la estructura, pero con un cambio en el tipo de datos que envian y reciben, ya que se busca enviar entero, flotante y booleanos, la comunicación con arduino la hace el primero nodo que es el que envia los primeros datos hacia los otros nodos. Se usa lenguaje en c++
 La carpeta que contiene los archivos se llama:
 - ros_arduino
+## Tercer corte
+### Conexion arduino y ROS
+Se corrigen los nodos existentes adjuntando a estos la configuración para el correcto funcionamiento de la conexión.Se usa lenguaje en c++
+La carpeta que contiene los archivos se llama:
+- ros_arduino
+### Comunicación Remmina y SSH
+Se instala remmina en las dos maquinas virtuales para usar uso de esta, se configura su red para poder tener una misma red local y luego se obtiene el ip de ambas para asi crear el servidor y el cliente. Para el ssh se instalan primero las librerias y la funciones en ubuntu, luego por medio de un comando de ssh se trata de acceder al servidor, para esto debe ingresar la contraseña del usario del servidor al que se dea acceder.
